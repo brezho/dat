@@ -1,5 +1,5 @@
 {
-  {name:"Senior", type:"Local", value: 900}
-  {name:"Senior", type:"Remote", value: 5500}
+  {"name":"Senior", "type":"Local", "value": 900},
+  {"name":"Senior", "type":"Remote", "value": 550}
   
 }
